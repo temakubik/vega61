@@ -1418,8 +1418,8 @@ a:hover {
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
   color: #ffffff;
 }
-.scrollToTop_wraper {
-  display: none !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'PT Sans', sans-serif;
